@@ -6,7 +6,7 @@ using UnityEngine;
 namespace underscorea
 {
     [BepInDependency("com.bepis.r2api")]
-    [BepInPlugin("com.underscorea.pingdistance", "PingDistance", "1.0")]
+    [BepInPlugin("com.underscorea.pingdistance", "PingDistance", "1.0.1")]
     public class PingDistance : BaseUnityPlugin
     {
         public void Awake()
