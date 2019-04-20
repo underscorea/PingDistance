@@ -5,4 +5,4 @@ i dont know how well it works
 but it worked for me  
 ¯\\\_(ツ)\_/¯
 
-_should be compatible with 1.3.1 and newer bleeding edge builds_  
+_should be compatible with 1.3.1 and newer bleeding edge builds of BepInEx_  
